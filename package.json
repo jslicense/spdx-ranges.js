@@ -1,0 +1,14 @@
+{
+  "name": "spdx-ranges",
+  "version": "0.0.0",
+  "description": "list of SPDX standard license ranges",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "kemitchell/spdx-ranges.js",
+  "license": "CC-BY-SA-3.0",
+  "scripts": {
+    "test": "defence -i javascript README.md | sed 's!spdx-ranges!./!' | node"
+  },
+  "devDependencies": {
+    "defence-cli": "^1.0.1"
+  }
+}

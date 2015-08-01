@@ -1,6 +1,6 @@
 {
   "name": "spdx-ranges",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "list of SPDX standard license ranges",
   "author": "The Linux Foundation",
   "repository": "kemitchell/spdx-ranges.js",

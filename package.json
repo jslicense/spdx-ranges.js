@@ -1,14 +1,17 @@
 {
   "name": "spdx-ranges",
-  "version": "1.0.0",
   "description": "list of SPDX standard license ranges",
+  "version": "1.0.0",
   "author": "The Linux Foundation",
-  "repository": "kemitchell/spdx-ranges.js",
-  "license": "CC-BY-3.0",
-  "scripts": {
-    "test": "defence -i javascript README.md | sed 's!spdx-ranges!./!' | node"
-  },
+  "contributors": [
+    "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)"
+  ],
   "devDependencies": {
     "defence-cli": "^1.0.1"
+  },
+  "license": "CC-BY-3.0",
+  "repository": "kemitchell/spdx-ranges.js",
+  "scripts": {
+    "test": "defence -i javascript README.md | sed 's!spdx-ranges!./!' | node"
   }
 }

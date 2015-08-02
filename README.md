@@ -1,7 +1,3 @@
-```shellsession
-$ npm install spdx-ranges
-```
-
 ```javascript
 var assert = require('assert')
 var spdxRanges = require('spdx-ranges')

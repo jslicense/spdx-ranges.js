@@ -17,7 +17,11 @@ assert(
 
 assert(
   ranges.every(function(range) {
-    return range.every(function(identifier) {
-	  return typeof identifier === 'string' }) }),
-  'elements of Array-elements are strings')
+    return range.every(function(element) {
+      return (
+        typeof element === 'string' ||
+        ( Array.isArray(element) &&
+          element.every(function(element) {
+            return typeof element === 'string' }) ) ) }) }),
+  'elements of Array-elements are strings or Arrays of Strings')
 ```

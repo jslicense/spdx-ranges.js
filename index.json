@@ -105,10 +105,10 @@
       "GFDL-1.2-only"
     ],
     [
-      "GFDL-1.3",
-      "GFDL-1.3-only",
       "GFDL-1.1-or-later",
       "GFDL-1.2-or-later",
+      "GFDL-1.3",
+      "GFDL-1.3-only",
       "GFDL-1.3-or-later"
     ]
   ],
@@ -122,10 +122,10 @@
       "GPL-2.0-only"
     ],
     [
-      "GPL-3.0",
-      "GPL-3.0-only",
       "GPL-1.0-or-later",
       "GPL-2.0-or-later",
+      "GPL-3.0",
+      "GPL-3.0-only",
       "GPL-3.0-or-later"
     ]
   ],
@@ -139,10 +139,10 @@
       "LGPL-2.1-only"
     ],
     [
-      "LGPL-3.0",
-      "LGPL-3.0-only",
       "LGPL-2.0-or-later",
       "LGPL-2.1-or-later",
+      "LGPL-3.0",
+      "LGPL-3.0-only",
       "LGPL-3.0-or-later"
     ]
   ],

@@ -7,7 +7,7 @@
     "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)"
   ],
   "devDependencies": {
-    "defence-cli": "^1.0.1"
+    "defence-cli": "^3.0.1"
   },
   "license": "(MIT AND CC-BY-3.0)",
   "repository": "kemitchell/spdx-ranges.js",

@@ -9,7 +9,7 @@
   "devDependencies": {
     "defence-cli": "^1.0.1"
   },
-  "license": "CC-BY-3.0",
+  "license": "(MIT AND CC-BY-3.0)",
   "repository": "kemitchell/spdx-ranges.js",
   "scripts": {
     "test": "defence -i javascript README.md | sed 's!spdx-ranges!./!' | node"

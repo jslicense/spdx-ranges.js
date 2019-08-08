@@ -1,7 +1,7 @@
 {
   "name": "spdx-ranges",
   "description": "list of SPDX standard license ranges",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "author": "The Linux Foundation",
   "contributors": [
     "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)"
